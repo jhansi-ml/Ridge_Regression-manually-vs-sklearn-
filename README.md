@@ -1,4 +1,4 @@
-# Ridge_Regression-manually-vs-sklearn-
+
 # Ridge Regression From Scratch
 
 This project implements Ridge Regression using:
